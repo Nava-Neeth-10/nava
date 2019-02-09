@@ -17,7 +17,7 @@ int main(void) {
 
     	else{
 
-    		printf("Constants");
+    		printf("Consonant");
 
     	}
 
