@@ -28,4 +28,5 @@ int main(void) {
     	printf("invalid");
 
     }
+    return 0;
 }
