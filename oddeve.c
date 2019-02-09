@@ -13,19 +13,19 @@ int main(void) {
 
         if(n%2==0){
 
-        printf("EVEN");
+        printf("Even");
 
     }
 
     else{
 
-        printf("ODD");
+        printf("Odd");
 
     }
 
     }
     else{
-printf("INVALID");
+printf("Invalid");
 }
 
 	return 0;
